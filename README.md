@@ -3,8 +3,8 @@
 **`Technology Enthusiast`**
 
 I'm a lifelong learner who seeks knowledge day by day. Currently I'm a student at [42Rio](https://42.rio/), which is where my journey into programing started. There, I've been learning new concepts, programing languages and practices in the creation of personal projects, while developping my soft skills through the methodology used by 42school, wich forces you to defend and review projects thoroughly and exchange knowledge between your peers.
-
-**Language and tools that I've learned and used during my journey:**
+#
+**Languages and tools that I've learned and used during my journey:**
 
 ![c](https://user-images.githubusercontent.com/69059969/222242942-17a18754-a84e-4d8d-be59-60389c4f4b60.png)
 ![cpp](https://user-images.githubusercontent.com/69059969/222243042-dcf6ab94-e4ad-45be-9c6b-52db6418af08.png)
@@ -18,3 +18,9 @@ I'm a lifelong learner who seeks knowledge day by day. Currently I'm a student a
 ![vim](https://user-images.githubusercontent.com/69059969/222243471-3da17d3a-9883-4710-bd98-4e4b1e4e63c2.png)
 <img src="https://user-images.githubusercontent.com/69059969/222244054-e97e80df-baeb-4df4-a365-cb2b8f0d8d26.svg"  width="48" height="48">
 <img src="https://user-images.githubusercontent.com/69059969/222244060-a6e73ac5-d600-49c6-8d42-878a5ee85d58.png"  width="48" height="48">
+#
+### Personal Projects in cronological order:
+#### 1 [My own C library (C)](https://github.com/GabrielCLC/my_c_library)
+* A library in C that I'll be using inside most of my other projects in C
+#### 2 [Fractal exploration program (C)](https://github.com/GabrielCLC/fractal_exploration.git)
+* A graphical project that lets you explore the world of fractals
