@@ -6,13 +6,15 @@ I'm a lifelong learner who seeks knowledge day by day. Currently I'm a student a
 
 **Language and tools that I've learned and used during my journey:**
 
-![icons8-c-programming-48](https://user-images.githubusercontent.com/69059969/222200218-5dfd627a-039a-402e-8b5a-82985cf5c062.png)
-![icons8-c++-48](https://user-images.githubusercontent.com/69059969/222210392-85bd982f-38c9-4c7d-85bd-0af1d369108a.png)
-![icons8-bash-48](https://user-images.githubusercontent.com/69059969/222211191-a65e4a06-80ad-46cc-bd29-88fb7cd1ae9c.png)
-![icons8-linux-48](https://user-images.githubusercontent.com/69059969/222212725-0726cfd3-c2c5-4554-9cf0-7562d78568c7.png)
-![icons8-git-48](https://user-images.githubusercontent.com/69059969/222212948-ec7a9c10-fa9e-41a6-b460-4fa09402c021.png)
-![icons8-github-48](https://user-images.githubusercontent.com/69059969/222215258-01af2375-f918-4f69-90af-5d35ddf64165.png)
-<img src="https://user-images.githubusercontent.com/69059969/222213868-21bed779-960d-40f6-8bf1-2106a628e543.png"  width="48" height="48">
-![icons8-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-48(1)](https://user-images.githubusercontent.com/69059969/222211752-5ae2cb9d-3070-4943-97ba-81809e9ad648.png)
-<img src="https://user-images.githubusercontent.com/69059969/222212208-025da114-80d0-4b05-b3d5-98de0e8e8bcd.svg"  width="48" height="48">
-#
+![c](https://user-images.githubusercontent.com/69059969/222242942-17a18754-a84e-4d8d-be59-60389c4f4b60.png)
+![cpp](https://user-images.githubusercontent.com/69059969/222243042-dcf6ab94-e4ad-45be-9c6b-52db6418af08.png)
+![bash](https://user-images.githubusercontent.com/69059969/222243096-9bd56c54-f26a-4a5a-93a4-8626b5f951e0.png)
+<img src="https://user-images.githubusercontent.com/69059969/222246202-49c1c277-eaab-4456-87bf-76d6a52e9d78.jpg"  width="48" height="48">
+![Cmake](https://user-images.githubusercontent.com/69059969/222246427-73e37fdc-50e8-4d9b-a314-5e9f2129098b.png)
+![linux](https://user-images.githubusercontent.com/69059969/222243156-d438a8de-131c-4dd9-9442-0a279c880e6e.png)
+<img src="https://user-images.githubusercontent.com/69059969/222243746-2e74e316-70e5-467d-9844-d9e2ea0ed743.png"  width="48" height="48">
+![git](https://user-images.githubusercontent.com/69059969/222243217-0bbb71f6-d498-4cdf-9b21-d4e579e51f54.png)
+![github](https://user-images.githubusercontent.com/69059969/222243273-d89993d1-da6f-4ae0-9116-6bfecacb2727.png)
+![vim](https://user-images.githubusercontent.com/69059969/222243471-3da17d3a-9883-4710-bd98-4e4b1e4e63c2.png)
+<img src="https://user-images.githubusercontent.com/69059969/222244054-e97e80df-baeb-4df4-a365-cb2b8f0d8d26.svg"  width="48" height="48">
+<img src="https://user-images.githubusercontent.com/69059969/222244060-a6e73ac5-d600-49c6-8d42-878a5ee85d58.png"  width="48" height="48">
