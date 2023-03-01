@@ -1,4 +1,4 @@
-### Gabriel Cardoso
+# Gabriel Cardoso
 
 **`technology enthusiast`**
 
@@ -15,3 +15,4 @@ I'm a lifelong learner who seeks knowledge day by day. Currently I'm a student a
 <img src="https://user-images.githubusercontent.com/69059969/222213868-21bed779-960d-40f6-8bf1-2106a628e543.png"  width="48" height="48">
 ![icons8-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-48(1)](https://user-images.githubusercontent.com/69059969/222211752-5ae2cb9d-3070-4943-97ba-81809e9ad648.png)
 <img src="https://user-images.githubusercontent.com/69059969/222212208-025da114-80d0-4b05-b3d5-98de0e8e8bcd.svg"  width="48" height="48">
+#
