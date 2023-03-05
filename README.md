@@ -2,7 +2,7 @@
 
 **`Technology Enthusiast`**
 
-I'm a lifelong learner who seeks knowledge day by day. Currently I'm a student at [42Rio](https://42.rio/), which is where my journey into programing started. There, I've been learning new concepts, programing languages and practices in the creation of personal projects, while developping my soft skills through the methodology used by 42school, wich forces you to defend and review projects thoroughly and exchange knowledge between your peers.
+I'm a lifelong learner who seeks knowledge day by day. Currently I'm a student at [42Rio](https://42.rio/), which is where my journey into programing started. There, I've been learning new concepts, programing languages and practices in the creation of personal projects, while developping my soft skills through the methodology used by 42school, which forces you to defend and review projects thoroughly and exchange knowledge between your peers.
 #
 **Languages and tools that I've learned and used during my journey:**
 
@@ -19,7 +19,7 @@ I'm a lifelong learner who seeks knowledge day by day. Currently I'm a student a
 <img src="https://user-images.githubusercontent.com/69059969/222244054-e97e80df-baeb-4df4-a365-cb2b8f0d8d26.svg"  width="48" height="48">
 <img src="https://user-images.githubusercontent.com/69059969/222244060-a6e73ac5-d600-49c6-8d42-878a5ee85d58.png"  width="48" height="48">
 #
-### Personal Projects in cronological order:
+### Some of my Personal Projects:
 #### 1 [My own C library (C)](https://github.com/GabrielCLC/my_c_library)
 * A library in C that I'll be using inside most of my other projects in C
 #### 2 [Fractal exploration program (C)](https://github.com/GabrielCLC/fractal_exploration.git)
