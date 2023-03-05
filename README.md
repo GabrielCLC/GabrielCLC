@@ -24,5 +24,5 @@ I'm a lifelong learner who seeks knowledge day by day. Currently I'm a student a
 * A library in C that I'll be using inside most of my other projects in C
 #### 2 [Fractal exploration program (C)](https://github.com/GabrielCLC/fractal_exploration.git)
 * A graphical project that lets you explore the world of fractals
-#### 3 [The dining philosophers problem](https://github.com/gabrielclcardoso/dining_philosophers)
-* A project in C that introduced me to multithreading through the problem of the dining philosophers
+#### 3 [The dining philosophers problem (C)](https://github.com/gabrielclcardoso/dining_philosophers)
+* A project that introduced me to multithreading through the problem of the dining philosophers
