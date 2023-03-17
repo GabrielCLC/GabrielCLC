@@ -21,8 +21,10 @@ I'm a lifelong learner who seeks knowledge day by day. Currently I'm a student a
 #
 ### Some of my Personal Projects:
 #### 1 [My own C library (C)](https://github.com/GabrielCLC/my_c_library)
-* A library in C that I'll be using inside most of my other projects in C
+* A library in C that I'll be using inside most of my other projects in C.
 #### 2 [Fractal exploration program (C)](https://github.com/GabrielCLC/fractal_exploration.git)
-* A graphical project that lets you explore the world of fractals
+* A graphical project that lets you explore the world of fractals.
 #### 3 [The dining philosophers problem (C)](https://github.com/gabrielclcardoso/dining_philosophers)
-* A project that introduced me to multithreading through the problem of the dining philosophers
+* A project that introduced me to multithreading through the problem of the dining philosophers.
+#### 4 [Minibash (C)](https://github.com/gabrielclcardoso/minibash)
+* A project where we create a shell that behaves like bash by implementing some of it's functionalities.
