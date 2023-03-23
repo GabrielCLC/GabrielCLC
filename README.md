@@ -28,3 +28,7 @@ I'm a lifelong learner who seeks knowledge day by day. Currently I'm a student a
 * A project that introduced me to multithreading through the problem of the dining philosophers.
 #### 4 [Minibash (C)](https://github.com/gabrielclcardoso/minibash)
 * A project where we create a shell that behaves like bash by implementing some of it's functionalities.
+
+### Stats
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielclcardoso&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gabrielclcardoso's GitHub stats" /></a>
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielclcardoso&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/gabrielclcardoso/github-readme-stats)
