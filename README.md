@@ -20,14 +20,13 @@ I'm a lifelong learner who seeks knowledge day by day. Currently I'm a student a
 <img src="https://user-images.githubusercontent.com/69059969/222244060-a6e73ac5-d600-49c6-8d42-878a5ee85d58.png"  width="48" height="48">
 #
 ### Some of my Personal Projects:
-#### 1 [My own C library (C)](https://github.com/GabrielCLC/my_c_library)
-* A library in C that I'll be using inside most of my other projects in C.
-#### 2 [Fractal exploration program (C)](https://github.com/GabrielCLC/fractal_exploration.git)
-* A graphical project that lets you explore the world of fractals.
-#### 3 [The dining philosophers problem (C)](https://github.com/gabrielclcardoso/dining_philosophers)
-* A project that introduced me to multithreading through the problem of the dining philosophers.
-#### 4 [Minibash (C)](https://github.com/gabrielclcardoso/minibash)
-* A project where we create a shell that behaves like bash by implementing some of it's functionalities.
+[![My C library card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielclcardoso&theme=dark&repo=my_c_library)](https://github.com/gabrielclcardoso/my_c_library)
+
+[![Fractal card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielclcardoso&theme=dark&repo=fractal_exploration)](https://github.com/gabrielclcardoso/fractal_exploration.git)
+
+[![Philosophers card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielclcardoso&theme=dark&repo=dining_philosophers)](https://github.com/gabrielclcardoso/dining_philosophers)
+
+[![Minibash card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielclcardoso&theme=dark&repo=minibash)](https://github.com/gabrielclcardoso/minibash)
 
 ### Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielclcardoso&theme=dark)
