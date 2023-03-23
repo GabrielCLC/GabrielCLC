@@ -30,5 +30,5 @@ I'm a lifelong learner who seeks knowledge day by day. Currently I'm a student a
 * A project where we create a shell that behaves like bash by implementing some of it's functionalities.
 
 ### Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielclcardoso&theme=dark)](https://github.com/gabrielclcardoso/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielclcardoso&hide=Roff,Objective-C&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielclcardoso&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielclcardoso&hide=Roff,Objective-C&theme=dark&layout=compact)
