@@ -24,6 +24,7 @@ I'm a lifelong learner who seeks knowledge day by day. Currently I'm a student a
 [![Fractal card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielclcardoso&theme=dark&repo=fractal_exploration)](https://github.com/gabrielclcardoso/fractal_exploration.git)
 [![Philosophers card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielclcardoso&theme=dark&repo=dining_philosophers)](https://github.com/gabrielclcardoso/dining_philosophers)
 [![Minibash card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielclcardoso&theme=dark&repo=minibash)](https://github.com/gabrielclcardoso/minibash)
+[![Minibash card](https://github-readme-stats.vercel.app/api/pin/?username=raytracers&theme=dark&repo=miniRT)](https://github.com/raytracers/miniRT)
 
 ### Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielclcardoso&theme=dark)
