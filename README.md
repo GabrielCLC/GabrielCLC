@@ -19,13 +19,13 @@ I'm a lifelong learner who seeks knowledge day by day. Currently I'm a student a
 <img src="https://user-images.githubusercontent.com/69059969/222244054-e97e80df-baeb-4df4-a365-cb2b8f0d8d26.svg"  width="48" height="48">
 <img src="https://user-images.githubusercontent.com/69059969/222244060-a6e73ac5-d600-49c6-8d42-878a5ee85d58.png"  width="48" height="48">
 #
-### Some of my Personal Projects:
+### Some of my Personal Projects / Projects I contribute to:
 [![My C library card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielclcardoso&theme=dark&repo=my_c_library)](https://github.com/gabrielclcardoso/my_c_library)
 [![Fractal card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielclcardoso&theme=dark&repo=fractal_exploration)](https://github.com/gabrielclcardoso/fractal_exploration.git)
 [![Philosophers card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielclcardoso&theme=dark&repo=dining_philosophers)](https://github.com/gabrielclcardoso/dining_philosophers)
 [![Minibash card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielclcardoso&theme=dark&repo=minibash)](https://github.com/gabrielclcardoso/minibash)
 [![Minibash card](https://github-readme-stats.vercel.app/api/pin/?username=raytracers&theme=dark&repo=miniRT)](https://github.com/raytracers/miniRT)
-
+[![ExploreNYm_card](https://github-readme-stats.vercel.app/api/pin/?username=explorenym&theme=dark&repo=bash-tool)](https://github.com/ExploreNYM/bash-tool)
 ### Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielclcardoso&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielclcardoso&hide=Roff,Objective-C&theme=dark&layout=compact)
