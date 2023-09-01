@@ -26,6 +26,3 @@ I'm a lifelong learner who seeks knowledge day by day. Currently I'm an ambassad
 [![Minibash card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielclcardoso&theme=dark&repo=minibash)](https://github.com/gabrielclcardoso/minibash)
 [![Minibash card](https://github-readme-stats.vercel.app/api/pin/?username=raytracers&theme=dark&repo=miniRT)](https://github.com/raytracers/miniRT)
 [![ExploreNYm_card](https://github-readme-stats.vercel.app/api/pin/?username=explorenym&theme=dark&repo=bash-tool)](https://github.com/ExploreNYM/bash-tool)
-### Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielclcardoso&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielclcardoso&hide=Roff,Objective-C&theme=dark&layout=compact)
